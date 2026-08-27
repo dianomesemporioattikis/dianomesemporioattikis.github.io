@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="371 69 158 147" width="158" height="147" role="img" aria-label="Dianomes Emporio Attikis symbol">
+  <title>Dianomes Emporio Attikis symbol</title>
+  <g fill="none" stroke="#f2efe6" stroke-width="6" stroke-linejoin="round" stroke-linecap="butt">
+    <path d="M450 80 L518 205 L382 205 Z"></path>
+  </g>
+  <g fill="#e2a53a">
+    <circle cx="400" cy="180" r="3"></circle>
+    <circle cx="412.4939" cy="164.3826" r="3"></circle>
+    <circle cx="424.9878" cy="148.7652" r="3"></circle>
+    <circle cx="437.4817" cy="133.1479" r="3"></circle>
+    <circle cx="452.775" cy="139.5813" r="3"></circle>
+    <circle cx="468.775" cy="151.5813" r="3"></circle>
+    <circle cx="482.8987" cy="154.7824" r="3"></circle>
+    <circle cx="492.6115" cy="137.2992" r="3"></circle>
+    <circle cx="502.3244" cy="119.8161" r="3"></circle>
+    <circle cx="400" cy="180" r="7"></circle>
+    <circle cx="440" cy="130" r="7"></circle>
+    <circle cx="480" cy="160" r="7"></circle>
+    <circle cx="505" cy="115" r="7"></circle>
+  </g>
+</svg>

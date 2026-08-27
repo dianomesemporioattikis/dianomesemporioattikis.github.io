@@ -258,6 +258,13 @@ footer a{color:#b9c0c6}
   font-weight:700;
   font-size:.85rem;
   flex-shrink:0;
+  padding:.35rem;
+}
+.topnav .mark img{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+  display:block;
 }
 .topnav ul{
   list-style:none;
@@ -355,12 +362,19 @@ footer a{color:#b9c0c6}
   max-width:52ch;
   margin:0 auto 2rem;
 }
+.hero-logo{
+  display:block;
+  width:100%;
+  max-width:260px;
+  height:auto;
+  margin:0 auto 1.2rem;
+}
 .hero p.en-name{
   font-family:'Inter',sans-serif;
   font-style:italic;
-  font-size:.85rem;
-  color:#9aa2a9;
-  margin:0 0 1rem;
+  font-size:1rem;
+  color:#c7cdd2;
+  margin:0 0 1.4rem;
   letter-spacing:.02em;
 }
 .hero p.kad-line{
